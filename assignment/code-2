@@ -1,0 +1,6 @@
+let x = 15;
+let y = 8;
+
+let max = (x > y) ? x : y;
+
+console.log(`The larger value is: ${max}`); 
