@@ -1,0 +1,11 @@
+let x = 15;
+let y = 8;
+let maximum;
+
+if (x > y) {
+  maximum = x;
+} else {
+  maximum = y;
+}
+
+console.log(`The larger value is: ${maximum}`); 
